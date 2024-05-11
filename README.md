@@ -7,8 +7,7 @@ This is a simple Todo application built using React and Vite. It allows users to
 - **Add Tasks**: Easily add new tasks to your list.
 - **Edit Tasks**: Modify task details as needed.
 - **Delete Tasks**: Remove tasks that are no longer needed.
-- **Responsive Design**: The application is responsive, allowing for a seamless experience across devices.
-
+  
 ## Technologies Used
 
 - **React**: A popular JavaScript library for building user interfaces.
