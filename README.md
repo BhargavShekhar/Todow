@@ -25,4 +25,4 @@ This is a simple Todo application built using React and Vite. It allows users to
 
 ## Visit 
 
-  [Todow]_(https://todow-bhargav-shekhars-projects.vercel.app/)
+  [Todow](https://todow-bhargav-shekhars-projects.vercel.app/)
